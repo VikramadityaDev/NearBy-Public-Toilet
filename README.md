@@ -52,7 +52,7 @@ This means that app will only be available for users that run Android SDK 20 or 
 # License
 
 ```
-MIT License
+Apache License 2.0
 
 Copyright (c) 2022 Vikramaditya
 
