@@ -1,4 +1,8 @@
 # NearBy-Public-Toilet
+[![Platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![Gradle Version](https://img.shields.io/badge/gradle-4.0-green.svg)](https://docs.gradle.org/current/release-notes)
+
 An Flutter app that shows nearby toilets (under 500 meters) using your current geolocation. You can browser through the details of these toilets ratings , opening and closing and etc. It's also gives you the direction on google map.
 
 
