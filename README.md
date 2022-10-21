@@ -33,7 +33,7 @@ For more details, see [Getting started with Google Maps Platform](https://develo
 ```
 android {
     defaultConfig {
-        minSdkVersion 20
+        minSdkVersion 21
     }
 }
 ```
